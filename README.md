@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sefnassuf12@gmail.com**
 
-- 📄 Know about my experiences [I got some knowledge on network](I got some knowledge on network)
+- 📄 Know about my experiences : (I got some knowledge on network)
 
 
 ## <h3 align="left">Connect with me:</h3>
