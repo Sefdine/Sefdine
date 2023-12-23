@@ -4,7 +4,7 @@
 <h1>~$ whoami : <strong>Sefdine Nassuf</strong> 👋</h1>
 
 
-<h3>Software Engineering learner</h3>
+<h3>Cloud Big Data Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefdine&label=Profile%20views&color=0e75b6&style=flat" alt="sefdine" /> </p>
 
